@@ -1,0 +1,15 @@
+{
+  "name": "grocery",
+  "version": "1.0.0",
+  "description": "Lista de la compra",
+  "main": "index.js",
+  "scripts": {
+    "test": "test.js"
+  },
+  "author": "Fede García & Carlos Barrón",
+  "license": "ISC",
+  "dependencies": {
+    "cordova": "^7.0.1",
+    "ionic": "^3.9.2"
+  }
+}
